@@ -1,2 +1,3 @@
-var str = 'how are you?';
-console.log(str.length)
+var a = "Hoe are you?";
+console.log(a.length)
+

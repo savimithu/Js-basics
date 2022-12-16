@@ -23,24 +23,75 @@
 // let a7 ="lbs";
 // let a8;
 
- function ktolb(a5,a8)
- {
-    if(a8==="kgs")
-    {
-      var b6 = a5 * 2.2;
-      console.log(a5,a8,'=',b6,'lbs"')
+//  function ktolb(a5,a8)
+//  {
+//     if(a8==="kgs")
+//     {
+//       var b6 = a5 * 2.2;
+//       console.log(a5,a8,'=',b6,'lbs"')
     
-    }
-    else
-    {
-        var b6 = a5 / 2.2;
-        console.log(a5,a8,'=',b6,'kgs"')
-    }
+//     }
+//     else
+//     {
+//         var b6 = a5 / 2.2;
+//         console.log(a5,a8,'=',b6,'kgs"')
+//     }
+// }
+//  console.log(ktolb(50,"lbs"))
+// console.log(ktolb(60,"kgs"))
+
+
+
+// //===10.str = 'Life, the universe and everything. Answer:';
+
+// // console.log(`${str} ${str.length}`);
+
+// //
+// function getlength(a)
+// {
+//   l=a.length ;
+//   return l ;
+// }
+
+
+// function cmplength(a,b) {
+
+// c= getlength(a);
+// d= getlength(b) ;
+
+
+// console.log(c,d);
+
+
+// if (c > d) 
+// {
+//   console.log (a, 'is longer than',b);
+// }
+// else if (c<d)
+// {
+//   console.log(b,'is longer than ',a);
+// }
+// else 
+// {
+//   console.log(a,'is equal to',b);
+// }
+
+// }
+
+// console.log(cmplength("Jawahar","Navilan"));
+
+
+
+// const fruits = ["Apple", "Banana"];
+// const fruitsString = fruits.join(" ");
+// console.log(fruitsString);
+
+
+
+
+let i = 5;
+for (let i = 0; i < 10; i++)
+{
+console.log(i)
 }
- console.log(ktolb(50,"lbs"))
-console.log(ktolb(60,"kgs"))
-
-
-
-
 

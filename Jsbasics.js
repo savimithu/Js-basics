@@ -1,3 +1,5 @@
-var a = "Hoe are you?";
-console.log(a.length)
-
+function nofc(a)
+{
+    console.log(a.length);
+}
+console.log(nofc('how are you ?'))

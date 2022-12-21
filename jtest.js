@@ -20,25 +20,25 @@
 
 // var a5;
 // let a6 = "kgs";
-// let a7 ="lbs";
+// let a7 = "lbs";
 // let a8;
 
-//  function ktolb(a5,a8)
-//  {
-//     if(a8==="kgs")
-//     {
-//       var b6 = a5 * 2.2;
-//       console.log(a5,a8,'=',b6,'lbs"')
+ function ktolb(a5,a8)
+ {
+    if(a8==="kgs")
+    {
+      var b6 = a5 * 2.2;
+      console.log(a5,a8,'=',b6,'lbs"')
     
-//     }
-//     else
-//     {
-//         var b6 = a5 / 2.2;
-//         console.log(a5,a8,'=',b6,'kgs"')
-//     }
-// }
-//  console.log(ktolb(50,"lbs"))
-// console.log(ktolb(60,"kgs"))
+    }
+    else
+    {
+        var b6 = a5 / 2.2;
+        console.log(a5,a8,'=',b6,'kgs"')
+    }
+}
+console.log(ktolb(50,"lbs"))
+console.log(ktolb(60,"kgs"))
 
 
 
@@ -82,16 +82,10 @@
 
 
 
-// const fruits = ["Apple", "Banana"];
-// const fruitsString = fruits.join(" ");
-// console.log(fruitsString);
-
-
-
-
-let i = 5;
-for (let i = 0; i < 10; i++)
+function pwr(a,b)
 {
-console.log(i)
-}
+   r= (a**b);
+   return r;
 
+}
+console.log(pwr(2,4));

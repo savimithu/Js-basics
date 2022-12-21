@@ -1,0 +1,34 @@
+{
+   { "name":"california",
+   "capital":"sacramento",
+    "largest city":"los angeles",
+    "governor":"Gavin newson",
+    "time zone":"pst",
+    "state abbreviation":"CA"
+    
+   }
+   ,
+   {
+    "name":"texas",
+    "capital":"Austin",
+    "largest city":"Houston",
+    "governor":"greg abott",
+    "time zone":"cst",
+    "state abbreviation":"tx"
+   }
+  ,
+   { 
+    "name":"new jersey",
+   "capital":"trenton",
+    "largest city":"newark",
+    "governor":"phil murphy",
+    "time zone":"Est",
+    "state abbreviation":"nj"
+
+   }
+   
+
+
+
+]
+}

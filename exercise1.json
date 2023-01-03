@@ -1,5 +1,8 @@
 {
-   { "name":"california",
+   [
+
+   {
+       "name":"california",
    "capital":"sacramento",
     "largest city":"los angeles",
     "governor":"Gavin newson",
@@ -7,8 +10,9 @@
     "state abbreviation":"CA"
     
    }
-   ,
+   
    {
+
     "name":"texas",
     "capital":"Austin",
     "largest city":"Houston",
@@ -16,7 +20,7 @@
     "time zone":"cst",
     "state abbreviation":"tx"
    }
-  ,
+  
    { 
     "name":"new jersey",
    "capital":"trenton",
@@ -24,6 +28,67 @@
     "governor":"phil murphy",
     "time zone":"Est",
     "state abbreviation":"nj"
+
+   }
+   {
+      "name":"Georgia",
+      "capital":"Atlanta",
+      "largest city":"Atlanta",
+      "timezone":"EST",
+      "governor":"Brian kemp",
+      "state Abbreviation":"GA",
+
+   }
+   {
+      "name":"North carolina",
+      "capital":"Raleigh",
+      "largest City":"charlotte",
+      "time zone":"EST",
+      "governor":"Roy cooper",
+      "State abbreviation":"NC",
+   }
+   {
+      "name":"Nevada",
+      "Capital":"Carson City",
+      "largest city":"Las vegas",
+      "time zone":"PST",
+      "Governor":"Joy Lombardo",
+      "State Abbreviation":"NV",
+   }
+   {
+      "name":"Arizona",
+      "Capital":"Phoenix",
+      "largest city":"phoenix",
+      "time zone":"MST",
+      "Governor":"Katie Hobbs",
+      "state Abbreviation":"AZ",
+
+   }
+   {
+   "name":"Utah",
+   "capital":"salt lake city",
+   "largest city":"salt lake city",
+   "time Zone":"MST",
+   "governor":"Spencer cox",
+   "State Abbreviation":"UT",
+   }
+   {
+   
+   "name":"Pennsylvania",
+   "capital":"Harrisburg",
+   "largest city":"Philadelphia",
+   "time Zone":"ESt",
+   "governor":"Tom Wolf",
+   "State Abbreviation":"PA",
+   }
+   {
+   "name":"Virginia",
+   "capital":"Richmond",
+   "largest city":"Virginia Beach",
+   "time Zone":"ESt",
+   "governor":"Glenn youngkin",
+   "State Abbreviation":"VA",
+
 
    }
    

@@ -1,5 +1,7 @@
 {
-   [
+
+   "states":
+[
 
    {
        "name":"california",
@@ -9,7 +11,7 @@
     "time zone":"pst",
     "state abbreviation":"CA"
     
-   }
+   },
    
    {
 
@@ -19,7 +21,7 @@
     "governor":"greg abott",
     "time zone":"cst",
     "state abbreviation":"tx"
-   }
+   },
   
    { 
     "name":"new jersey",
@@ -29,7 +31,7 @@
     "time zone":"Est",
     "state abbreviation":"nj"
 
-   }
+   },
    {
       "name":"Georgia",
       "capital":"Atlanta",
@@ -38,7 +40,7 @@
       "governor":"Brian kemp",
       "state Abbreviation":"GA",
 
-   }
+   },
    {
       "name":"North carolina",
       "capital":"Raleigh",
@@ -46,7 +48,7 @@
       "time zone":"EST",
       "governor":"Roy cooper",
       "State abbreviation":"NC",
-   }
+   },
    {
       "name":"Nevada",
       "Capital":"Carson City",
@@ -54,7 +56,7 @@
       "time zone":"PST",
       "Governor":"Joy Lombardo",
       "State Abbreviation":"NV",
-   }
+   },
    {
       "name":"Arizona",
       "Capital":"Phoenix",
@@ -63,7 +65,7 @@
       "Governor":"Katie Hobbs",
       "state Abbreviation":"AZ",
 
-   }
+   },
    {
    "name":"Utah",
    "capital":"salt lake city",
@@ -71,7 +73,7 @@
    "time Zone":"MST",
    "governor":"Spencer cox",
    "State Abbreviation":"UT",
-   }
+   },
    {
    
    "name":"Pennsylvania",
@@ -80,7 +82,7 @@
    "time Zone":"ESt",
    "governor":"Tom Wolf",
    "State Abbreviation":"PA",
-   }
+   },
    {
    "name":"Virginia",
    "capital":"Richmond",
